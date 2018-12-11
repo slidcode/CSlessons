@@ -10,7 +10,7 @@ namespace ConsoleApp3
 	{
 		static void Main(string[] args)
 		{
-			new ()
+			new ()dd
 		}
 	}
 }
